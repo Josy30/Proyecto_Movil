@@ -487,5 +487,6 @@ main{
     width: 20px;
     height: 20px;
     background-image: url("./assets/icons/orange-right-arrow.svg");
+    vertical-align: text-bottom ;
 }
 
